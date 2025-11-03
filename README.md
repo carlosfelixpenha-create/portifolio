@@ -14,10 +14,6 @@ Sistema com login, cadastro e painel administrativo.
 Tecnologias: HTML, CSS, JavaScript  
 🔗 [Ver projeto no GitHub](https://github.com/carlosfelixpenha-create/MiniSistema)
 
-### 🤖 Automação de Testes
-Scripts de automação com Robot Framework e Selenium, aplicados em cenários reais de QA.  
-🔗 [Ver projeto no GitHub](https://github.com/carlosfelixpenha-create/AutomacoesQA)
-
 ---
 
 ## 🚀 Sobre o Portfólio
@@ -31,8 +27,9 @@ Está hospedado via GitHub Pages e recebe atualizações frequentes.
 
 Caso queira trocar uma ideia ou colaborar:
 
-- Email: `seuemail@email.com`
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- Cel: `(+55) 41 99583-0881`
+- Email: `carlosfelixpenha@gmail.com`
+- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/carlos-félix-9427676b)
 
 ---
 

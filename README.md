@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio pessoal! Aqui você encontra os principais projetos que desenvolvi, focados em desenvolvimento web, automações e qualidade de software.
 
 🔗 **Acesse o site online:**  
-[https://carlosfelixpenha-create.github.io/portifolio/](https://carlosfelixpenha-create.github.io/portifolio/)
+[https://carlosfelixpenha-create.github.io/portifolio/](https://carlosfelixpenha-create.github.io/Portifolio/)
 
 ---
 
